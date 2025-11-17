@@ -23,14 +23,13 @@
 ---
 
 ## 🚀 About Me  
-<img align="right" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZlb2w2bHY2aGp1Y3JlYzJvd2d1czA5ZGx3Yzhhb2ZoaWl6NWg5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZlb2w2bHY2aGp1Y3JlYzJvd2d1czA5ZGx3Yzhhb2ZoaWl6NWg5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech CSE (AIML), PES University  
-- 🏆 **1st Place Winner – Flipr Hackathon (Platinum)**  
+- 🏆 1st Place Winner – Flipr Hackathon (Platinum)  
 - 💡 Passion: AI, LLMs, ML systems, scalable web apps  
-- 🧠 Experience with **TensorFlow, PyTorch, NLP, FastAPI, Supabase, MERN**  
-- 🎯 Goal: Build intelligent systems that create real-world impact  
-- 🔥 Always learning, experimenting, exploring cutting-edge tech  
+- 🧠 Tech: TensorFlow, PyTorch, NLP, FastAPI, Supabase, MERN  
+- 🎯 Goal: Build intelligent systems that create real-world impact
 
 ---
 
@@ -44,7 +43,7 @@
 ### **AI / ML**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img height="45" src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img height="36" src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </p>
 
 ### **Web Development**
@@ -64,14 +63,14 @@
 
 ---
 
-# 🧠 Featured Projects (with Cards)
+# 🧠 Featured Projects
 
 ### 🥇 Finny’s Financial Adventure — *Hackathon Winner*  
 <p>
   <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=finny-s-financial-adventure&theme=tokyonight"/>
 </p>
 <p align="center">
-  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/finny-s-financial-adventure">finny-s-financial-adventure</a>
+  <a href="https://github.com/SreekarSamrudh/finny-s-financial-adventure">finny-s-financial-adventure</a>
 </p>
 
 ### 🛒 AI Retail Shopping Assistant (Gemini)  
@@ -79,7 +78,7 @@
   <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=list-to-life-retail-ai&theme=tokyonight"/>
 </p>
 <p align="center">
-  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/list-to-life-retail-ai">list-to-life-retail-ai</a>
+  <a href="https://github.com/SreekarSamrudh/list-to-life-retail-ai">list-to-life-retail-ai</a>
 </p>
 
 ### 🩺 Knee Osteoarthritis Diagnosis (82% Accuracy)  
@@ -87,7 +86,7 @@
   <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Knee-Osteoarthritis-Analysis&theme=tokyonight"/>
 </p>
 <p align="center">
-  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/Knee-Osteoarthritis-Analysis">Knee-Osteoarthritis-Analysis</a>
+  <a href="https://github.com/SreekarSamrudh/Knee-Osteoarthritis-Analysis">Knee-Osteoarthritis-Analysis</a>
 </p>
 
 ### 🎮 Connect 4 Multiplayer (TCP/IP)  
@@ -95,7 +94,7 @@
   <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Connect4-game&theme=tokyonight"/>
 </p>
 <p align="center">
-  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/Connect4-game">Connect4-game</a>
+  <a href="https://github.com/SreekarSamrudh/Connect4-game">Connect4-game</a>
 </p>
 
 ### 🩺 HerHealth — Maternal Healthcare App  
@@ -103,25 +102,22 @@
   <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=HerHealth&theme=tokyonight"/>
 </p>
 <p align="center">
-  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/HerHealth">HerHealth</a>
+  <a href="https://github.com/SreekarSamrudh/HerHealth">HerHealth</a>
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-### **Stats**
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SreekarSamrudh&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreekarSamrudh&layout=compact&theme=tokyonight" />
 </p>
 
-### **Streak**
 <p align="center">
   <img height="200" src="https://streak-stats.demolab.com?user=SreekarSamrudh&theme=tokyonight&border_radius=10" />
 </p>
 
-### **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreekarSamrudh&theme=react-dark"/>
 </p>
