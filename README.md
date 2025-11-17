@@ -1,142 +1,151 @@
-<!-- Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/multiple-lines.svg?lines=Hello+There!+👋;I'm+Sreekar+Samrudh;Software+Engineer+%7C+AI%2FML+Engineer+%7C+Full-Stack+Developer;Welcome+to+my+GitHub!&center=true&size=28" />
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF7EF&center=true&vCenter=true&width=650&lines=Hello+There!+👋;I'm+Sreekar+Samrudh;Software+Engineer+%7C+AI%2FML+Engineer+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
-<!-- Profile Header -->
+<!-- Name Header -->
 <h1 align="center">🌟 Kanamarlapudi Sreekar Samrudh 🌟</h1>
 <h3 align="center">Software Engineer • AI/ML Engineer • Full-Stack Developer</h3>
 
+<!-- Social -->
 <p align="center">
-  <a href="https://github.com/SreekarSamrudh?tab=followers">
-    <img src="https://img.shields.io/github/followers/SreekarSamrudh?style=for-the-badge&logo=github&color=white" />
-  </a>
-  <a href="mailto:sreekarsamrudh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sreekar-samrudh">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/SreekarSamrudh/SreekarSamrudh/raw/main/Resume.pdf">
-    <img src="https://img.shields.io/badge/Download-Resume-brightgreen?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
+  <a href="https://github.com/SreekarSamrudh?tab=followers"><img src="https://img.shields.io/github/followers/SreekarSamrudh?style=for-the-badge&color=blue"></a>
+  <a href="mailto:sreekarsamrudh@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/sreekar-samrudh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
 ## 🚀 About Me  
-<img align="right" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZlb2w2bHY2aGp1Y3JlYzJvd2d1czA5ZGx3Yzhhb2ZoaWl6NWg5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech CSE (AIML), PES University  
-- 🏆 1st Place Winner – Flipr Hackathon (Platinum)  
-- 💡 Passion: AI, LLMs, ML systems, scalable web apps  
-- 🧠 Tech: TensorFlow, PyTorch, NLP, FastAPI, Supabase, MERN  
-- 🎯 Goal: Build intelligent systems that create real-world impact
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech CSE (AIML) — PES University  
+- 🏆 1st Place (Platinum) Winner — **Flipr Hackathon**  
+- 💡 Building AI, ML, LLM, and full-stack products  
+- 🔥 Skilled in **React, Node, FastAPI, Supabase, ML, TensorFlow, PyTorch**  
+- 🚀 Passion: AI Agents, Scalable Systems, Cloud Apps  
 
 ---
 
 # ⚡ Tech Stack
 
-### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java" />
+### 👨‍💻 Languages
+<p><img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java" /></p>
+
+### 🤖 AI / ML
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> 
+<img height="36" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### **AI / ML**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img height="36" src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</p>
+### 🌐 Web Development
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,html,css,tailwind" /></p>
 
-### **Web Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,html,css,tailwind" />
-</p>
+### 🗄 Databases
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" /></p>
 
-### **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
-### **DevOps & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vite" />
-</p>
+### 🛠 Tools
+<p><img src="https://skillicons.dev/icons?i=git,docker,github,vite" /></p>
 
 ---
 
-# 🧠 Featured Projects
+# 🧠 Featured Projects  
+### ⭐ Premium Project Gallery (Working Links + Cards)
 
-### 🥇 Finny’s Financial Adventure — *Hackathon Winner*  
-<p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=finny-s-financial-adventure&theme=tokyonight"/>
-</p>
-<p align="center">
-  <a href="https://github.com/SreekarSamrudh/finny-s-financial-adventure">finny-s-financial-adventure</a>
-</p>
+<table align="center">
+<tr>
 
-### 🛒 AI Retail Shopping Assistant (Gemini)  
-<p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=list-to-life-retail-ai&theme=tokyonight"/>
-</p>
-<p align="center">
-  <a href="https://github.com/SreekarSamrudh/list-to-life-retail-ai">list-to-life-retail-ai</a>
-</p>
+<td align="center">
+<b>Finny’s Financial Adventure</b><br>
+<a href="https://github.com/SreekarSamrudh/finny-s-financial-adventure">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=finny-s-financial-adventure&theme=tokyonight">
+</a>
+</td>
 
-### 🩺 Knee Osteoarthritis Diagnosis (82% Accuracy)  
-<p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Knee-Osteoarthritis-Analysis&theme=tokyonight"/>
-</p>
-<p align="center">
-  <a href="https://github.com/SreekarSamrudh/Knee-Osteoarthritis-Analysis">Knee-Osteoarthritis-Analysis</a>
-</p>
+<td align="center">
+<b>Nourish Connect Craft</b><br>
+<a href="https://github.com/SreekarSamrudh/nourish-connect-craft">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=nourish-connect-craft&theme=tokyonight">
+</a>
+</td>
 
-### 🎮 Connect 4 Multiplayer (TCP/IP)  
-<p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Connect4-game&theme=tokyonight"/>
-</p>
-<p align="center">
-  <a href="https://github.com/SreekarSamrudh/Connect4-game">Connect4-game</a>
-</p>
+</tr>
+<tr>
 
-### 🩺 HerHealth — Maternal Healthcare App  
-<p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=HerHealth&theme=tokyonight"/>
-</p>
-<p align="center">
-  <a href="https://github.com/SreekarSamrudh/HerHealth">HerHealth</a>
-</p>
+<td align="center">
+<b>AI Retail Shopping Assistant</b><br>
+<a href="https://github.com/SreekarSamrudh/list-to-life-retail-ai">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=list-to-life-retail-ai&theme=tokyonight">
+</a>
+</td>
+
+<td align="center">
+<b>Knee Osteoarthritis Analysis</b><br>
+<a href="https://github.com/SreekarSamrudh/Knee-Osteoarthritis-Analysis">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Knee-Osteoarthritis-Analysis&theme=tokyonight">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
+<b>Connect 4 Multiplayer Game</b><br>
+<a href="https://github.com/SreekarSamrudh/Connect4-game">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Connect4-game&theme=tokyonight">
+</a>
+</td>
+
+<td align="center">
+<b>E-Commerce Insights AI</b><br>
+<a href="https://github.com/SreekarSamrudh/ecommerce-insights-ai">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=ecommerce-insights-ai&theme=tokyonight">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" colspan="2">
+<b>HerHealth — Maternal Healthcare App</b><br>
+<a href="https://github.com/SreekarSamrudh/HerHealth">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=HerHealth&theme=tokyonight">
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SreekarSamrudh&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreekarSamrudh&layout=compact&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SreekarSamrudh&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreekarSamrudh&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=SreekarSamrudh&theme=tokyonight&border_radius=10" />
+<img height="200" src="https://streak-stats.demolab.com?user=SreekarSamrudh&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreekarSamrudh&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SreekarSamrudh&theme=react-dark" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SreekarSamrudh&theme=tokyonight&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=SreekarSamrudh&theme=tokyonight&column=6" />
 </p>
 
 ---
 
 # 🤝 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sreekar-samrudh/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:sreekarsamrudh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sreekar-samrudh/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="mailto:sreekarsamrudh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
 </p>
 
-<br/>
-
-<p align="center"><b>⭐ If you like my work, consider starring a few repositories!</b></p>
+<p align="center"><b>⭐ If you like my work, consider giving a star!</b></p>
