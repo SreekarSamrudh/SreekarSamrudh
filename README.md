@@ -66,24 +66,44 @@
 
 # 🧠 Featured Projects (with Cards)
 
-### 🥇 Finny’s Financial Adventure — *Hackathon Winner*
+### 🥇 Finny’s Financial Adventure — *Hackathon Winner*  
 <p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Finny&theme=tokyonight"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=finny-s-financial-adventure&theme=tokyonight"/>
+</p>
+<p align="center">
+  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/finny-s-financial-adventure">finny-s-financial-adventure</a>
 </p>
 
-### 🛒 AI Retail Shopping Assistant (Gemini)
+### 🛒 AI Retail Shopping Assistant (Gemini)  
 <p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=AI-Shopping-Assistant&theme=tokyonight"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=list-to-life-retail-ai&theme=tokyonight"/>
+</p>
+<p align="center">
+  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/list-to-life-retail-ai">list-to-life-retail-ai</a>
 </p>
 
-### 🩺 Knee Osteoarthritis Diagnosis (82% Accuracy)
+### 🩺 Knee Osteoarthritis Diagnosis (82% Accuracy)  
 <p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Knee-OA-Detection&theme=tokyonight"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Knee-Osteoarthritis-Analysis&theme=tokyonight"/>
+</p>
+<p align="center">
+  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/Knee-Osteoarthritis-Analysis">Knee-Osteoarthritis-Analysis</a>
 </p>
 
-### 🎮 Connect 4 Multiplayer (TCP/IP)
+### 🎮 Connect 4 Multiplayer (TCP/IP)  
 <p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Connect4-Multiplayer&theme=tokyonight"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=Connect4-game&theme=tokyonight"/>
+</p>
+<p align="center">
+  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/Connect4-game">Connect4-game</a>
+</p>
+
+### 🩺 HerHealth — Maternal Healthcare App  
+<p>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=SreekarSamrudh&repo=HerHealth&theme=tokyonight"/>
+</p>
+<p align="center">
+  <b>Repository:</b> <a href="https://github.com/SreekarSamrudh/HerHealth">HerHealth</a>
 </p>
 
 ---
