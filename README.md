@@ -14,8 +14,6 @@
 </p>
 
 ---
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SreekarSamrudh&show_icons=true&theme=transparent&count_private=true" alt="Sreekar's GitHub stats"/>
 
 
 ## 🚀 About Me  
@@ -135,14 +133,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreekarSamrudh&theme=react-dark" />
 </p>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreekarSamrudh&layout=compact&theme=transparent" alt="Top Languages"/>
-
----
 
 # 🏆 GitHub Trophy Wall
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SreekarSamrudh&theme=onedark" alt="Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SreekarSamrudh&theme=onedark&column=4" alt="Trophy"/>
 </p>
 
 ---
