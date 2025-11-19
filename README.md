@@ -1,7 +1,6 @@
-<!-- Typing SVG Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF7EF&center=true&vCenter=true&width=650&lines=Hello+There!+👋;I'm+Sreekar+Samrudh;Software+Engineer+%7C+AI%2FML+Engineer+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=2000&color=4A2E2A&width=700&lines=Hi,+I'm+Sreekar+Samrudh;Software+Engineer+%E2%80%A2+AI+%26+Full-Stack" alt="typing svg"/>
+
 
 <!-- Name Header -->
 <h1 align="center">🌟 Kanamarlapudi Sreekar Samrudh 🌟</h1>
@@ -137,7 +136,7 @@
 
 # 🏆 GitHub Trophy Wall
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SreekarSamrudh&theme=tokyonight&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=SreekarSamrudh&theme=onedark" alt="Trophy"/>
 </p>
 
 ---
