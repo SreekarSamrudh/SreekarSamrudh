@@ -14,6 +14,9 @@
 </p>
 
 ---
+<!-- GitHub Readme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=SreekarSamrudh&show_icons=true&theme=transparent&count_private=true" alt="Sreekar's GitHub stats"/>
+
 
 ## 🚀 About Me  
 
@@ -131,6 +134,9 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreekarSamrudh&theme=react-dark" />
 </p>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreekarSamrudh&layout=compact&theme=transparent" alt="Top Languages"/>
 
 ---
 
